@@ -1,48 +1,40 @@
 {
   "main": {
-    "id": "5957f87811796b36",
+    "id": "54f6c512e000bd19",
     "type": "split",
     "children": [
       {
-        "id": "0f6c1b2eb64341b7",
+        "id": "5d6c7699497f1e14",
         "type": "tabs",
         "children": [
           {
-            "id": "ed968bcf39e5dd9b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "aec2faae37f974a6",
+            "id": "6ee0e285d661cfc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Honours Analysis Front Page.md",
+                "file": "Templates/Page.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "753fd3d3cba03ff4",
+    "id": "00e66080503b34cf",
     "type": "split",
     "children": [
       {
-        "id": "efcf9655dd5ac6d7",
+        "id": "4ed21a6f71468e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "d33887b5488e7d36",
+            "id": "a9e45389eadce374",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +44,7 @@
             }
           },
           {
-            "id": "64ef450417898ada",
+            "id": "ddff9fda8eaf75cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +59,15 @@
             }
           },
           {
-            "id": "7cc679eeb70ac390",
+            "id": "41ab84942a50e0b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "effb06208e56cfd4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "c78b9672bae85a6d",
+    "id": "0fc59b0d6f39078e",
     "type": "split",
     "children": [
       {
-        "id": "d54c8d949a4fbeda",
+        "id": "780692e5b5db55dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e63f92cd9fa705c5",
+            "id": "692712e8364ad779",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Honours Analysis Front Page.md",
+                "file": "Templates/Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +106,19 @@
             }
           },
           {
-            "id": "4979a1d35a103724",
+            "id": "afcd76bacf863af3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Honours Analysis Front Page.md",
+                "file": "Templates/Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ebe45d248ece2a29",
+            "id": "418f68a04a75453b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,20 +129,29 @@
             }
           },
           {
-            "id": "1b780d3db2e08bf9",
+            "id": "8bac6b116a99e0f8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Honours Analysis Front Page.md"
+                "file": "Templates/Page.md"
               }
             }
+          },
+          {
+            "id": "8ce0418d7250d6a6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -152,12 +161,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d33887b5488e7d36",
+  "active": "6ee0e285d661cfc1",
   "lastOpenFiles": [
-    "Courses",
-    "Courses/Honours Analysis Front Page.md"
+    "Templates/Thm.md",
+    "Templates/Page.md",
+    "Templates/Rem.md",
+    "Courses/Geometry Index.md",
+    "Templates/Def.md",
+    "Templates/CourseTemplate.md",
+    "Templates/Not.md",
+    "Templates/bDef.md",
+    "Templates/bEx.md",
+    "Templates/bLem.md",
+    "Templates/bNot.md",
+    "Templates/bQu.md",
+    "Templates/bRem.md",
+    "Templates/bThm.md",
+    "Templates/Main.md",
+    "Pages/{{title}}.md",
+    "PDFs/Geometry Workshop 1.pdf",
+    "PDFs",
+    "New folder",
+    "Courses/Informatics Large Practical Index.md",
+    "Courses/Introduction to Theoretical Computer Science Index.md",
+    "Courses/Honours Analysis Index.md",
+    "Courses/Introduction to Mobile Robotics Index.md",
+    "Pages/Untitled 1.md",
+    "Pages/Untitled.md",
+    "Images",
+    "Pages",
+    "Templates",
+    "Individuals/Geometry.md",
+    "Individuals/Axiom of Completeness.md",
+    "Honours Analysis/Presentation Rubrick.md",
+    "Mathematics/Defining the Real Numbers.md",
+    "Honours Analysis",
+    "private",
+    "old_index.txt",
+    "Images/Pasted image 20230412114037.png",
+    "Images/Pasted image 20230412113025.png",
+    "Images/Pasted image 20230412103907.png",
+    "Images/Pasted image 20230412103906.png",
+    "Images/Pasted image 20230412103626.png",
+    "Images/Pasted image 20230412102532.png",
+    "Images/Pasted image 20230412102018.png",
+    "Images/Pasted image 20230328193341.png",
+    "Images/Pasted image 20230313020847.png",
+    "Images/Pasted image 20230312135144.png",
+    "Computing Science"
   ]
 }

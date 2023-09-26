@@ -1,0 +1,1 @@
+> [!Lemma]+ Lem: [[{{title}}|]]

@@ -1,1 +1,17 @@
-{}
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Pages",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "absolute",
+  "autoPairMarkdown": false
+}

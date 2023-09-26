@@ -1,0 +1,29 @@
+.callout[data-callout="theorem"] {
+    --callout-color: 2, 122, 255;
+    --callout-icon: bookmark;
+}
+
+.callout[data-callout="definition"] {
+    --callout-color: 0, 204, 0;
+    --callout-icon: book;
+}
+
+.callout[data-callout="lemma"] {
+    --callout-color: 255, 112, 77;
+    --callout-icon: quote;
+}
+
+.callout[data-callout="example"] {
+    --callout-color: 168, 130, 255;
+    --callout-icon: quote;
+}
+
+.callout[data-callout="notation"] {
+    --callout-color: 255, 205, 0;
+    --callout-icon: pencil;
+}
+
+.callout[data-callout="remark"] {
+    --callout-color: 255, 26, 140;
+    --callout-icon: megaphone;
+}
