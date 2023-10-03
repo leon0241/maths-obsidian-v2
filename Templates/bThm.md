@@ -1,1 +1,1 @@
-> [!Theorem]+ Thm: [[{{title}}|]]
+> [!Theorem]+ Thm: [[Pages/{{title}}|{{title}}]]

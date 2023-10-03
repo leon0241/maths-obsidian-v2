@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6c7699497f1e14",
+        "id": "e7f535e5348a6ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee0e285d661cfc1",
+            "id": "c503c9bd578b3380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Page.md",
+                "file": "Pages/Absolute Convergence.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Page.md",
+                "file": "Pages/Absolute Convergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Page.md",
+                "file": "Pages/Absolute Convergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Page.md"
+                "file": "Pages/Absolute Convergence.md"
               }
             }
           },
@@ -166,43 +166,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6ee0e285d661cfc1",
+  "active": "c503c9bd578b3380",
   "lastOpenFiles": [
-    "Templates/Thm.md",
-    "Templates/Page.md",
-    "Templates/Rem.md",
-    "Courses/Geometry Index.md",
-    "Templates/Def.md",
-    "Templates/CourseTemplate.md",
-    "Templates/Not.md",
     "Templates/bDef.md",
+    "Templates/Not.md",
+    "Templates/CourseTemplate.md",
+    "Templates/bThm.md",
+    "Templates/bRem.md",
+    "Templates/bQu.md",
+    "Templates/bNot.md",
     "Templates/bEx.md",
     "Templates/bLem.md",
-    "Templates/bNot.md",
-    "Templates/bQu.md",
-    "Templates/bRem.md",
-    "Templates/bThm.md",
-    "Templates/Main.md",
-    "Pages/{{title}}.md",
+    "Templates/Thm.md",
+    "Templates/Rem.md",
+    "Templates/Page.md",
+    "Templates/Def.md",
+    "Pages/Vector Spaces.md",
+    "Pages/Vector Fields.md",
+    "Pages/Vector Basis.md",
+    "Pages/Tangent Space.md",
+    "Pages/Sequences in R.md",
+    "Pages/Rearrangements of Conditionally convergent series.md",
+    "Pages/Rearrangements of Absolutely convergent series.md",
+    "Pages/Nested Intervals and Covers.md",
+    "Pages/Nested Interval Property.md",
+    "Pages/Limit Superior Convergence.md",
+    "Pages/Limit inferior and limit superior.md",
+    "Pages/Infinite Series of Real Numbers.md",
+    "Pages/Epsilon-N Convergence of a Sequence.md",
+    "Homework/Honours Analysis HW1.pdf",
+    "Homework",
     "PDFs/Geometry Workshop 1.pdf",
     "PDFs",
     "New folder",
-    "Courses/Informatics Large Practical Index.md",
-    "Courses/Introduction to Theoretical Computer Science Index.md",
-    "Courses/Honours Analysis Index.md",
-    "Courses/Introduction to Mobile Robotics Index.md",
-    "Pages/Untitled 1.md",
-    "Pages/Untitled.md",
     "Images",
     "Pages",
     "Templates",
-    "Individuals/Geometry.md",
-    "Individuals/Axiom of Completeness.md",
-    "Honours Analysis/Presentation Rubrick.md",
-    "Mathematics/Defining the Real Numbers.md",
     "Honours Analysis",
     "private",
-    "old_index.txt",
     "Images/Pasted image 20230412114037.png",
     "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",
@@ -212,7 +213,6 @@
     "Images/Pasted image 20230412102018.png",
     "Images/Pasted image 20230328193341.png",
     "Images/Pasted image 20230313020847.png",
-    "Images/Pasted image 20230312135144.png",
-    "Computing Science"
+    "Images/Pasted image 20230312135144.png"
   ]
 }

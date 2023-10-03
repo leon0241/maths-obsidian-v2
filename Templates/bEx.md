@@ -1,1 +1,1 @@
-> [!Example]+ [[{{title}}|Example: ]]
+> [!Example]+ [[Pages/{{title}}|Example: ]]

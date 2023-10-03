@@ -1,1 +1,1 @@
-> [!Remark]+ Rem: [[{{title}}|]]
+> [!Remark]+ Rem: [[Pages/{{title}}|{{title}}]]

@@ -1,1 +1,1 @@
-> [!Question]+ [[{{title}}|Question ]]
+> [!Question]+ [[Pages/{{title}}|Question ]]

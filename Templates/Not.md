@@ -2,5 +2,6 @@
 Category: Snippet
 tags:
   - Notation
+References:
 ---
-> [!Notation]+ Not: [[{{title}}]]
+> [!Notation]+ Not: [[Pages/{{title}}|{{title}}]]

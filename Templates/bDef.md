@@ -1,1 +1,1 @@
-> [!Definition]+ Def: [[{{title}}|]]
+> [!Definition]+ Def: [[Pages/{{title}}|{{title}}]]

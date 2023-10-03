@@ -2,5 +2,6 @@
 Category: Snippet
 tags:
   - Theorem
+References:
 ---
-> [!Theorem]+ Thm: [[{{title}}]]
+> [!Theorem]+ Thm: [[Pages/{{title}}|{{title}}]]

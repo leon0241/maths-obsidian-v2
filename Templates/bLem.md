@@ -1,1 +1,1 @@
-> [!Lemma]+ Lem: [[{{title}}|]]
+> [!Lemma]+ Lem: [[Pages/{{title}}|{{title}}]]

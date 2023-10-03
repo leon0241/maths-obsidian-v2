@@ -1,4 +1,3 @@
-
 set clipboard=unnamed
 
 
@@ -24,5 +23,6 @@ nmap k gk
 " Ctrl + A works properly
 nmap <C-a> ggVG
 
+nmap te f$a
 
 " Visual Mode key bindings

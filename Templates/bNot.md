@@ -1,1 +1,1 @@
-> [!Notation]+ Ntn: [[{{title}}|]]
+> [!Notation]+ Ntn: [[Pages/{{title}}|{{title}}]]
