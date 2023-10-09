@@ -2,6 +2,7 @@
 Category: Snippet
 tags:
   - Definition
-References:
+References: 
+aliases:
 ---
 > [!Definition]+ Def: [[Pages/{{title}}|{{title}}]]

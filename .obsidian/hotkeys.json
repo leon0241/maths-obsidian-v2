@@ -65,17 +65,24 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod",
         "Alt"
       ],
-      "key": "ArrowLeft"
-    },
+      "key": "H"
+    }
+  ],
+  "app:go-forward": [
     {
       "modifiers": [
         "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "ArrowLeft"
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
     }
   ]
 }

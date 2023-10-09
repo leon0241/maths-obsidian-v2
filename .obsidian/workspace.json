@@ -8,12 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c503c9bd578b3380",
+            "id": "4a1c7f64957dfbc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Absolute Convergence.md",
+                "file": "Pages/Biregular Curves.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f79af63b2e18c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Norm of a Curve.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4015d3aaa4099aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Regular Curves in Euclidean Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8ca5b8d32c74728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "037b0f379f26323a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/Geometry HW1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tangent vector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Absolute Convergence.md",
+                "file": "Pages/Biregular Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Absolute Convergence.md",
+                "file": "Pages/Biregular Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Absolute Convergence.md"
+                "file": "Pages/Biregular Curves.md"
               }
             }
           },
@@ -162,57 +208,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c503c9bd578b3380",
+  "active": "4a1c7f64957dfbc1",
   "lastOpenFiles": [
-    "Templates/bDef.md",
-    "Templates/Not.md",
-    "Templates/CourseTemplate.md",
-    "Templates/bThm.md",
-    "Templates/bRem.md",
-    "Templates/bQu.md",
-    "Templates/bNot.md",
-    "Templates/bEx.md",
-    "Templates/bLem.md",
-    "Templates/Thm.md",
-    "Templates/Rem.md",
-    "Templates/Page.md",
-    "Templates/Def.md",
-    "Pages/Vector Spaces.md",
-    "Pages/Vector Fields.md",
-    "Pages/Vector Basis.md",
-    "Pages/Tangent Space.md",
-    "Pages/Sequences in R.md",
-    "Pages/Rearrangements of Conditionally convergent series.md",
-    "Pages/Rearrangements of Absolutely convergent series.md",
-    "Pages/Nested Intervals and Covers.md",
-    "Pages/Nested Interval Property.md",
-    "Pages/Limit Superior Convergence.md",
-    "Pages/Limit inferior and limit superior.md",
-    "Pages/Infinite Series of Real Numbers.md",
-    "Pages/Epsilon-N Convergence of a Sequence.md",
+    "Homework/Geometry HW1.md",
+    "Homework/Geometry HW1.pdf",
+    "Pages/Biregular Curves.md",
+    "Pages/Frenet-Serret Frame and structure equations.md",
+    "Pages/Regular Curves in Euclidean Space.md",
+    "Pages/Norm of a Curve.md",
+    "Pages/Frenet-Serret equations.md",
+    "Courses/Geometry Index.md",
+    "Pages/Definition of a Tangent vector.md",
+    "Pages/Arc Length of a curve.md",
+    "Pages/Definition of Torsion.md",
+    "private/vim guide.md",
+    "Pages/Definition of the Frenet-Serret frame.md",
+    "Pages/Principal Normal and Binormal.md",
+    "Pages/Definition of a curve reparameterisation.md",
+    "Pages/Regular Curve reparameterisation.md",
+    "Pages/Definition of curvature.md",
+    "Pages/Unit tangent vector field.md",
+    "Pages/Euclidean vector fields.md",
+    "Courses/Honours Analysis Index.md",
+    "Courses/Introduction to Theoretical Computer Science Index.md",
+    "private/Note 2.md",
+    "private/Note 1.md",
+    "private/test.md",
+    "Pages/ILP Coursework 1.md",
+    "private",
+    "Pages/Untitled.md",
+    "Images/Pasted image 20231008182647.png",
+    "Homework/Honours Analysis HW2.pdf",
     "Homework/Honours Analysis HW1.pdf",
+    "Images/Pasted image 20231004192549.png",
+    "Images/Pasted image 20231004174836.png",
     "Homework",
     "PDFs/Geometry Workshop 1.pdf",
     "PDFs",
     "New folder",
     "Images",
     "Pages",
-    "Templates",
-    "Honours Analysis",
-    "private",
     "Images/Pasted image 20230412114037.png",
     "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",
     "Images/Pasted image 20230412103906.png",
     "Images/Pasted image 20230412103626.png",
     "Images/Pasted image 20230412102532.png",
-    "Images/Pasted image 20230412102018.png",
-    "Images/Pasted image 20230328193341.png",
-    "Images/Pasted image 20230313020847.png",
-    "Images/Pasted image 20230312135144.png"
+    "Images/Pasted image 20230412102018.png"
   ]
 }

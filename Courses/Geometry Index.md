@@ -11,6 +11,8 @@ tags:
 - [[PDFs/Geometry Workshop 1.pdf|Workshop 1]]
 - 
 #### Week 2
+- [[Regular Curves in Euclidean Space]]
+- [[Frenet-Serret Frame and structure equations]]
 #### Week 3
 - [[Vector Fields]]
 #### Week 4
