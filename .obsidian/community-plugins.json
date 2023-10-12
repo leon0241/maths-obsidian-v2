@@ -6,5 +6,6 @@
   "obsidian-pandoc",
   "table-editor-obsidian",
   "obsidian-tikzjax",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-git"
 ]

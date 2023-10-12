@@ -1,4 +1,4 @@
-> [!Question]+ [[Honours Analysis HW1|Question 5]]
+> [!Question]+ [[Homework/Honours Analysis HW1|Question 5]]
 > A real number is algebraic if it satisfies some polynomial equation with integer coefficients. Why is the set of algebraic numbers countable?
 
 #### Proof
@@ -8,7 +8,7 @@
 - It follows that in general for $A_{n}$, or the set of polynomials with degree $n$, there are in total $\mathbb{N}^n$ elements of the set which is countable. 
 - Since the set of algebraic numbers is $\cup A_{n}, n\in \mathbb{N}$ and a countable union of countable sets is also countable, this implies that the set of algebraic numbers is also countable.
 
-> [!Question]+ [[Honours Analysis HW1|Question 6a]]
+> [!Question]+ [[Homework/Honours Analysis HW1|Question 6a]]
 > Let $(a_{n})$ be a sequence of real numbers and $a\in\mathbb{R}$. Suppose $a_{n}\to a$. Show that
 > $$\frac{a_{1}+a_{2}+\cdots+a_{n}}{n}\to a$$
 
@@ -25,7 +25,7 @@ $$
 for some fixed number $M$ and $N$. when we take $n\to\infty$, the first term converges to 0 and the second is less than $\epsilon$. Therefore for large $n$ we have
 $$\left\lvert  \frac{a_{1}+a_{2}+\cdots+a_{n}}{n}-a \right\rvert < 2\epsilon$$
 
-> [!Question]+ [[Honours Analysis HW1|Question 6b]]
+> [!Question]+ [[Homework/Honours Analysis HW1|Question 6b]]
 > Find a sequence such that $(a_{n})$ does not converge but
 > $$\frac{a_{1}+a_{2}+\cdots+a_{n}}{n}$$
 > does

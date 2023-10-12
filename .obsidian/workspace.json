@@ -4,65 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7f535e5348a6ff3",
+        "id": "785191e656dcbdf1",
         "type": "tabs",
         "children": [
           {
-            "id": "4a1c7f64957dfbc1",
+            "id": "f786b1397208e656",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Biregular Curves.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f79af63b2e18c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Norm of a Curve.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4015d3aaa4099aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Regular Curves in Euclidean Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8ca5b8d32c74728",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "037b0f379f26323a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/Geometry HW1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -119,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Biregular Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Biregular Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pages/Biregular Curves.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,46 +157,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a1c7f64957dfbc1",
+  "active": "f786b1397208e656",
   "lastOpenFiles": [
-    "Homework/Geometry HW1.md",
-    "Homework/Geometry HW1.pdf",
-    "Pages/Biregular Curves.md",
-    "Pages/Frenet-Serret Frame and structure equations.md",
+    "Homework/Honours Analysis HW3.pdf",
+    "Homework/Honours Analysis HW3.md",
+    "Homework/Honours Analysis Skills 2.md",
+    "Homework/honsanalworkshop3.pdf",
+    "Pages/ILP CW1 Functional Requirements.md",
+    "Pages/ILP Coursework 1.md",
+    "Pages/ILP CW1 Essay.md",
+    "Courses/Informatics Large Practical Index.md",
+    "Courses/Honours Analysis Index.md",
+    "Pages/ILP CW1 Programming.md",
+    "Pages/Untitled 1.md",
     "Pages/Regular Curves in Euclidean Space.md",
+    "Pages/Infinite Series of Real Numbers.md",
+    "Pages/Frenet-Serret Frame and structure equations.md",
+    "Homework/Geometry HW1.pdf",
+    "Homework/Geometry HW1.md",
+    "Courses/Geometry Index.md",
+    "private/Untitled 1.md",
+    "private/Untitled.md",
+    "private/test.md",
+    "private/vim guide.md",
+    "Pages/Cauchy Sequences and Bolzano-Weierstrass.md",
+    "Pages/Cauchy-like sequence criteron.md",
+    "Homework/Honours Analysis HW1.pdf",
+    "Homework/Honours Analysis HW2.pdf",
+    "Homework/Honours Analysis HW2.md",
+    "Homework/Honours Analysis HW1.md",
+    "Pages/Biregular Curves.md",
     "Pages/Norm of a Curve.md",
     "Pages/Frenet-Serret equations.md",
-    "Courses/Geometry Index.md",
-    "Pages/Definition of a Tangent vector.md",
-    "Pages/Arc Length of a curve.md",
-    "Pages/Definition of Torsion.md",
-    "private/vim guide.md",
-    "Pages/Definition of the Frenet-Serret frame.md",
-    "Pages/Principal Normal and Binormal.md",
-    "Pages/Definition of a curve reparameterisation.md",
-    "Pages/Regular Curve reparameterisation.md",
-    "Pages/Definition of curvature.md",
-    "Pages/Unit tangent vector field.md",
-    "Pages/Euclidean vector fields.md",
-    "Courses/Honours Analysis Index.md",
-    "Courses/Introduction to Theoretical Computer Science Index.md",
-    "private/Note 2.md",
-    "private/Note 1.md",
-    "private/test.md",
-    "Pages/ILP Coursework 1.md",
     "private",
-    "Pages/Untitled.md",
     "Images/Pasted image 20231008182647.png",
-    "Homework/Honours Analysis HW2.pdf",
-    "Homework/Honours Analysis HW1.pdf",
     "Images/Pasted image 20231004192549.png",
     "Images/Pasted image 20231004174836.png",
     "Homework",
     "PDFs/Geometry Workshop 1.pdf",
     "PDFs",
     "New folder",
-    "Images",
-    "Pages",
     "Images/Pasted image 20230412114037.png",
     "Images/Pasted image 20230412113025.png",
     "Images/Pasted image 20230412103907.png",

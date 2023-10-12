@@ -13,3 +13,5 @@ References:
 ![[Pages/Definition of a Subsequence#^0ede35|Definition of a Subsequence]]
 
 ![[Pages/Bolzano-Weierstrass Theorem#^98625a|Bolzano-Weierstrass Theorem]]
+
+![[Pages/Cauchy-like sequence criteron#^c1feba|Cauchy-like sequence criteron]]
